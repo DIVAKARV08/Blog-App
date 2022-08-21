@@ -5,6 +5,7 @@ import AddEditBlog from "./pages/AddEditBlog";
 import Blog from "./pages/Blog";
 import NotFound from "./pages/NotFound";
 import Header from "./Components/Header";
+// import "./App.css";
 function App() {
   return (
     <BrowserRouter>
